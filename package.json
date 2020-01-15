@@ -31,6 +31,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "carbon-components-react": "^7.9.1",
     "client": "file:./client",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
@@ -38,6 +39,9 @@
     "ibm-cloud-env": "^0",
     "log4js": "^3.0.5",
     "node-sass": "^4.13.0"
+  },
+  "resolutions": {
+    "@babel/runtime": "7.0.0-beta.46"
   },
   "devDependencies": {
     "@types/node": "^11.15.4",

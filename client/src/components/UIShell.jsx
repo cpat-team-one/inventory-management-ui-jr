@@ -26,7 +26,7 @@ class UIShell extends Component {
   header = "Big Blue Widgets";
   menuTitle = "Inventory Management";
   menuItems = [
-    "Stock Items"
+    "Stock Items",
   ];
 
   constructor(props) {
