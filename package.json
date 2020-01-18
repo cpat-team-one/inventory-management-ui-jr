@@ -38,13 +38,15 @@
     "express-http-proxy": "^1.6.0",
     "ibm-cloud-env": "^0",
     "log4js": "^3.0.5",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.0",
+    "superagent": "^5.2.1"
   },
   "resolutions": {
     "@babel/runtime": "7.0.0-beta.46"
   },
   "devDependencies": {
     "@types/node": "^11.15.4",
+    "@types/superagent": "^4.1.4",
     "nodemon": "^1.19.4",
     "sonarqube-scanner": "^2.5.0",
     "supertest": "^4.0.2"
